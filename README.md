@@ -1,6 +1,6 @@
 # PlayStation Button UI for Ryza 2
 
-## 설치방법법
+## 설치방법
 1. 압축파일을 푼뒤 폴더채로 'ryza2.exe' 혹은 'Data' 폴더와 같은 경로에 두십시오
 2. 파일내 Install.bat을 관리자권한으로 실행시키면 패치가 완료됩니다
   - 지원언어: 영어, 한국어
